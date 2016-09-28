@@ -1,3 +1,8 @@
+---
+-layout: post
+-title: Week 1: Data Science Dropout
+---
+
 Last week, I started a program called Metis; in essence, it’s a 3-month immersive bootcamp teaching students from a variety of backgrounds the skills to become professional data scientists. And, even though we are just starting Week 2, it has already been a whirlwind.
 
 Since this is my first post, you don’t have any background about me. That’s coming soon, but basically I’m a college dropout pursuing a life in startups. It’s like that Silicon Valley dropout cliche, except I can assure you it’s not glamorous, and there’s nothing special about it. I live in a house with 15 people (that I also manage to help pay the bills), walk 1.5+ miles each way to Metis, and share a bedroom with 3 other people. And I’m the only person without a college degree (or higher) in my Metis cohort, and one of two dropouts at home. But, in my eyes, I’d rather be working my ass off on building a career than riding through college, so I’m happy with where I am.
